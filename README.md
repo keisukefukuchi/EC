@@ -1,6 +1,5 @@
-# :blush:phase3-EC:blush:
-
-教材開発：EC サイト
+# EC
+EC サイト
 
 ## 必要作業
 
